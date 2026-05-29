@@ -1,0 +1,5 @@
+<resources>
+    <color name="viewit_background">#050505</color>
+    <color name="viewit_surface">#111111</color>
+    <color name="viewit_accent">#FFFFFF</color>
+</resources>
